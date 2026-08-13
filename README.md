@@ -16,5 +16,9 @@ Reporte 1/
  ├── Video-Tutorial
  └── Documento-de-Apoyo
 ```
-
+```
+Reporte 2/
+ ├── Videos Tutoriales
+ └── Manual de Apoyo Sistemas Operativos
+```
 
