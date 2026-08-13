@@ -1,13 +1,18 @@
 # Videos Tutoriales
 
-A continuación se muestra el video demostrativo con la configuración e instalación de ambos sistemas operativos en la máquina virtual:
+A continuación, se muestra el video mostrando con la configuración e instalación de ambos sistemas operativos en la máquina virtual:
 
 https://youtu.be/w89FYQJFBkM
 
 ---
 
 ## Recursos de Apoyo y Referencias
+---
 
+- Oracle VirtualBox: https://www.virtualbox.org/
+- ISO Windows11: https://www.microsoft.com/es-es/software-download/windows11?msockid=2dae9918569d69ef04238e85576a68d5
+- ISO Ubuntu: https://ubuntu.com/download/desktop
+---
 
 - Descarga de ISO de Ubuntu
 
