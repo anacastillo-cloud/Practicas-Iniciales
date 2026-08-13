@@ -6,7 +6,7 @@ https://youtu.be/w89FYQJFBkM
 
 ---
 
-## Recursos de Apoyo y Referencias
+## Recursos de Apoyo
 ---
 
 - Oracle VirtualBox: https://www.virtualbox.org/
