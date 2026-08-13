@@ -19,6 +19,7 @@ Reporte 1/
 ```
 Reporte 2/
  ├── Videos Tutoriales
- └── Manual de Apoyo Sistemas Operativos
+ ├── Manual de Apoyo Sistemas Operativos
+ └── Manual de Apoyo para Redes
 ```
 
